@@ -1,0 +1,2 @@
+# RITA
+Magnament project RITA
